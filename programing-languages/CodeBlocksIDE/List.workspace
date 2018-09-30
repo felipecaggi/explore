@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="exercise01/exercise01.cbp" />
+		<Project filename="exercise02/exercise02.cbp" />
+		<Project filename="exercise03/exercise03.cbp" />
+		<Project filename="exercise04/exercise04.cbp" />
+		<Project filename="exercise05/exercise05.cbp" />
+		<Project filename="exercise06/exercise06.cbp" />
+		<Project filename="exercise07/exercise07.cbp" />
+		<Project filename="exercise08/exercise08.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
