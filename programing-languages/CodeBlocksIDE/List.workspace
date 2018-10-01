@@ -9,5 +9,7 @@
 		<Project filename="exercise06/exercise06.cbp" />
 		<Project filename="exercise07/exercise07.cbp" />
 		<Project filename="exercise08/exercise08.cbp" />
+		<Project filename="exercise09/exercise09.cbp" />
+		<Project filename="exercise10/exercise10.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

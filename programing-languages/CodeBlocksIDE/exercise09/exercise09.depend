@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538357858 source:/home/felipecaggi/Documents/Projects/GitHub/explore/programing-languages/CodeBlocksIDE/exercise09/main.c
+	<stdio.h>
+	<stdlib.h>
+
